@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: gs-spring-boot-docker
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: debasishd
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: springdocker.Application
+

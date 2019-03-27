@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: gs-spring-boot-docker
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: debasishd
+Implementation-Vendor-Id: org.springframework
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_111
+Main-Class: springdocker.Application
+
